@@ -81,3 +81,8 @@ This project replicates the fast-paced, analytical, and presentation-driven envi
 | `Instructions.pdf`     | Task instructions and client briefing notes                      |
 | `Company_Overview.pdf` | Target company's key details and auction process summary         |
 | `DCF_Model.csv`        | Discounted Cash Flow valuation model (exported from Excel)       |
+---
+## 👤 Author
+
+**Ajinkya Kutarmare**  
+kutarmareajinkya52@gmail.com
